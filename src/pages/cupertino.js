@@ -14,7 +14,7 @@ const BirdFlightPage = () => {
 				in their teslas, then spent hours wandering (on foot and bus).<br /><br />
 				afterwards, when he was recounting all the places he'd visited and the things he'd done, one remark stood out
 				to me: he told me he felt like the only relaxed person in the entire city. i found this feeling of being out
-				of step with the rest of one's world to be really interesting: it reminded me of a quote from a piece i read
+				of step with the rest of one's world really intriguing (and relatable): it reminded me of a quote from a piece i read
 				a few months ago for a (later-dropped) literature & urban studies class, about the ways a "labyrinth" is
 				different from a "maze": "...the intentional traveler, wrapped up in the space of [their] own deliberations, is,
 				by the same token, absent from the world itself...to [traverse a labyrinth], [one's] action must be closely and
