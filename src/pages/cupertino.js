@@ -5,7 +5,7 @@ import SEO from '../components/seo';
 const BirdFlightPage = () => {
     return (
 		<Layout>
-			<SEO title="bird flight" />
+			<SEO title="cupertino" />
 			<p>
 				in june 2019, my dad and i travelled to san jose / cupertino (? i really don't know how the south bay area works
 				geographically, lol). i was attending an apple conference, and i don't remember why exactly my dad wanted to go,
@@ -13,8 +13,9 @@ const BirdFlightPage = () => {
 				center that week. he started his days early in the morning, eating oatmeal & watching the neighbors drive to work
 				in their teslas, then spent hours wandering (on foot and bus).<br /><br />
 				afterwards, when he was recounting all the places he'd visited and the things he'd done, one remark stood out
-				to me: he told me he felt like the only relaxed person in the entire city. this reminds me of a quote from a
-				piece i read a few months ago for a (later-dropped) literature & urban studies class, about the ways a "labyrinth" is
+				to me: he told me he felt like the only relaxed person in the entire city. i found this feeling of being out
+				of step with the rest of one's world to be really interesting: it reminded me of a quote from a piece i read
+				a few months ago for a (later-dropped) literature & urban studies class, about the ways a "labyrinth" is
 				different from a "maze": "...the intentional traveler, wrapped up in the space of [their] own deliberations, is,
 				by the same token, absent from the world itself...to [traverse a labyrinth], [one's] action must be closely and
 				continually coupled with [one's] perception &#8211; that is, by an ever-vigilant monitoring of the path as it unfolds.

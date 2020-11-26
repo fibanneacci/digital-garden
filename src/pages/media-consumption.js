@@ -5,7 +5,7 @@ import SEO from '../components/seo';
 const MediaConsumptionPage = () => {
     return (
 		<Layout>
-			<SEO title="bird flight" />
+			<SEO title="media consumption" />
 			<p>
 				(todo)
 			</p>
