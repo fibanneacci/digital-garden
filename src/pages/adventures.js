@@ -32,6 +32,8 @@ const AdventuresPage = () => {
 				<b>humrts 194a: environmental justice colloquium (1)</b>
 				<br />
 				<br />
+				other stuff:<br />
+				<b>the daily, rewired</b> &#8211; combination of tech, data, podcasts
 			</p>
 		</Layout>
 	);

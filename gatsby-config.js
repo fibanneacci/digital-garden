@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Digital Garden`,
-    description: `Home to my small &/ half-baked projects`,
+    title: `anne's digital garden`,
+    description: `home to my small &/ half-baked projects`,
     author: `@gatsbyjs`,
   },
   plugins: [
@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sass`,

@@ -4,7 +4,7 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header style={{ padding: `3rem 0 1rem 0` }}> {/* TODO: styling */}
-    <Link style={{ fontSize: `2rem`, fontWeight: `bold` }} to="/">Digital Garden</Link>
+    <Link style={{ fontSize: `2rem`, fontWeight: `bold` }} to="/">digital garden</Link>
   </header>
 )
 

@@ -25,6 +25,7 @@ const IndexPage = () => (
 			</a>.
 		</p>
     <p>
+      <Link to="/digital-plants">digital plants</Link><br />
       <Link to="/bird-flight">bird flight (201124)</Link><br />
       <Link to="/media-consumption">reading, listening to, watching</Link><br />
       <Link to="/adventures">a comprehensive look at what i've been up to</Link><br />
