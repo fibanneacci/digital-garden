@@ -12,7 +12,7 @@ const IndexPage = () => (
 		<p>
 			welcome to my little corner of the internet! my small &/ half-baked projects, ideas, and ramblings live here. (if by any chance
 			they ever get large &/ fully-baked, they might end up{' '}
-			<a href="https://fibanneacci.netlify.app/portfolio" target="_blank" rel="noreferrer">
+			<a href="https://anli.io/portfolio" target="_blank" rel="noreferrer">
 				here
 			</a>.)<br /><br />
 			inspired by{' '}
