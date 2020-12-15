@@ -31,6 +31,7 @@ const AdventuresPage = () => {
 				i got to watch coded bias because i was on a mailing list related to this class! but also, i think it
 				could've benefited from a more diverse array of speakers :/
 				<br />
+				<br />
 				<b>humrts 194a: environmental justice colloquium (1)</b>
 				<br />
 				<br />

@@ -33,8 +33,10 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`
         }}
       >
-        <Header />
-        <main style={{  minHeight: `90vh`}}>{children}</main>
+        <div style={{ minHeight: `87.5vh` }}>
+          <Header />
+          <main>{children}</main>
+        </div>
         <Footer />
       </div>
     </>
