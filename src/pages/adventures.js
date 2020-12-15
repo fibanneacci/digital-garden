@@ -28,8 +28,9 @@ const AdventuresPage = () => {
 				<br />
 				<b>poli 52k: tech and the 2020 election (1)</b>
 				<br />
-				i got to watch coded bias because i was on a mailing list related to this class! but also, i think it
-				could've benefited from a more diverse array of speakers :/
+				i got to watch coded bias because i was on a mailing list related to this class!
+				<br />
+				on the other hand, i think this class could've benefited from a more diverse array of speakers :/
 				<br />
 				<br />
 				<b>humrts 194a: environmental justice colloquium (1)</b>
