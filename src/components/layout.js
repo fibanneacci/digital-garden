@@ -30,14 +30,13 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-          minHeight: `90vh`
+          padding: `0 1.0875rem 1.45rem`
         }}
       >
         <Header />
-        <main>{children}</main>
+        <main style={{  minHeight: `90vh`}}>{children}</main>
+        <Footer />
       </div>
-      <Footer />
     </>
   )
 }
