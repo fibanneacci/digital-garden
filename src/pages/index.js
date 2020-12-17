@@ -29,7 +29,6 @@ const IndexPage = () => (
       <Link to="/digital-plants">digital plants</Link><br />
       <Link to="/bird-flight">bird flight (201124)</Link><br />
       <Link to="/media-consumption">reading, listening to, watching</Link><br />
-      <Link to="/adventures">a comprehensive look at what i've been up to</Link><br />
     </p>
     <p>
       did anything capture your interest? email me at anne24 at stanford dot edu if you want to chat about it! i love talking to
