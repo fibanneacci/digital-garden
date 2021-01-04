@@ -8,7 +8,7 @@ const Footer = ({ siteTitle }) => (
 			marginTop: `2rem`
 		}}
 	>
-        <b>Last cultivated on 201127.</b>{` `}
+        <b>Last cultivated on 210103.</b>{` `}
 		© {new Date().getFullYear()}, Anne Li. Built with
 		{` `}
 		<a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">
