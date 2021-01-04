@@ -27,7 +27,6 @@ const IndexPage = () => (
     <p>
       <Link to="/of-the-day">of the day</Link><br />
       <Link to="/digital-plants">digital plants</Link><br />
-      <Link to="/bird-flight">bird flight (201124)</Link><br />
       <Link to="/media-consumption">reading, listening to, watching</Link><br />
     </p>
     <p>
