@@ -26,10 +26,10 @@ const IndexPage = () => (
 		</p>
     <p>
       <Link to="/of-the-day">of the day</Link><br />
-      <Link to="/reading">reading</Link><br />
-      <Link to="/listening">listening</Link><br />
-      <Link to="/watching">watching</Link><br />
-      <Link to="/food">food</Link><br />
+      <Link to="/reading">[recently] read[ing]</Link><br />
+      <Link to="/listening">[recently] listen[ing]</Link><br />
+      <Link to="/watching">[recently] watch[ing]</Link><br />
+      <Link to="/cooking">[recently] cook[ing]</Link><br />
     </p>
     <p>
       did anything capture your interest? email me at anne24 at stanford dot edu if you want to chat about it! i love talking to
