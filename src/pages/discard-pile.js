@@ -5,7 +5,8 @@ import SEO from '../components/seo';
 const DiscardPage = () => {
     return (
         <Layout>
-            <SEO title="discard pile: words that didn't make the final cut for my blog posts" />
+            <SEO title="discard pile" />
+            <h3>discard pile: words that didn't make the final cut for my blog posts</h3>
             <p>
                 Recent favorites:<br />
                 Feeling: walking on a park trail with mask up and earphones in and head down, feeling very isolated from the rest of the world<br />

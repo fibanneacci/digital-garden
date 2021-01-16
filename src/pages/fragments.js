@@ -6,6 +6,7 @@ const FragmentsPage = () => {
     return (
         <Layout>
             <SEO title="fragments of an oral history, transcribed" />
+            <h3>fragments of an oral history, transcribed</h3>
             <p>
                 
             </p>
