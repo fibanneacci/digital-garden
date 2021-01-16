@@ -8,7 +8,6 @@ const OfTheDayPage = () => {
 	return (
 		<Layout>
 			<SEO title="__ of the day" />
-			<p>210112: 😔</p>
 			<p>2012??: in chinese, 日落 = sunset, while 晚霞 = the sky of a sunset</p>
 			<p>201124: sparrow flight</p>
 			<img src={Sparrows}></img>
