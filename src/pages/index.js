@@ -27,18 +27,18 @@ const IndexPage = () => (
 		<div style={{ border: `dashed #ffbf00`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
 			<p>
 				<p>🌻</p>
-				<Link to="/discard-pile">discard pile</Link><br />
 				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
+				<Link to="/discard-pile">discard pile</Link><br />
 			</p>
 		</div>
 		<div style={{ border: `dashed #ff63b3`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
 			<p>
 				<p>🌸</p>
-				<Link to="/of-the-day">of the day</Link><br />
 				<Link to="/reading">[recently] read[ing]</Link><br />
 				<Link to="/listening">[recently] listen[ing]</Link><br />
 				<Link to="/watching">[recently] watch[ing]</Link><br />
 				<Link to="/cooking">[recently] cook[ing]</Link><br />
+				<Link to="/of-the-day">of the day</Link><br />
 			</p>
 		</div>
 		<p>
