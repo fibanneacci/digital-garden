@@ -9,7 +9,7 @@ const DiscardPage = () => {
             <h3>discard pile: words that didn't make the final cut for my blog posts</h3>
             <p>
                 Ideally, I'd like to have more control over my online existence, & not be constrained to some arbitrary and algorithmic
-                formatting decided by, say, Facebook. Then again, even things like personal websites are, to some extent, algorithmic&#8211;after all,
+                formatting decided by, say, Facebook. Then again, even things like personal websites are, to some extent, algorithmic--after all,
                 <i>search engine rankings</i> are algorithmic.
             </p>
             <p>
