@@ -28,6 +28,8 @@ const IndexPage = () => (
 			<p>
 				<p>🌻</p>
 				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
+				<Link to="/goals">goals, abstract and concrete</Link><br />
+				<Link to="/then-and-now">then and now</Link><br />
 				<Link to="/discard-pile">discard pile</Link><br />
 			</p>
 		</div>
