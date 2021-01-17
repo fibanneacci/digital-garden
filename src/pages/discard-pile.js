@@ -8,8 +8,9 @@ const DiscardPage = () => {
             <SEO title="discard pile" />
             <h3>discard pile: words that didn't make the final cut for my blog posts</h3>
             <p>
-                Ideally, I'd like to have more control over my online existence, & not be constrained to some arbitrary
-                formatting decided by a social media company.
+                Ideally, I'd like to have more control over my online existence, & not be constrained to some arbitrary and algorithmic
+                formatting decided by a social media company. Then again, even things like personal websites are, to some extent, algorithmic,
+                because their search engine rankings are controlled by algorithms.
             </p>
             <p>
                 Recent favorites:<br />
