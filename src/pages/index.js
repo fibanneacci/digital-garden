@@ -44,7 +44,7 @@ const IndexPage = () => (
 			</p>
 		</div>
 		<p>
-			did anything capture your interest? email me at anne24 at stanford dot edu if you want to chat about it! i love talking to
+			did anything capture your interest? email me at hi at anli dot io if you want to chat about it! i love talking to
 			people about random things.
     </p>
 	</Layout>
