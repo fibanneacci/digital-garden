@@ -9,7 +9,7 @@ const Footer = ({ siteTitle }) => (
 		}}
 	>
         <b>Last cultivated on 210117.</b>{` `}
-		© {new Date().getFullYear()}, Anne Li. Built with
+		© {new Date().getFullYear()}, <a href="https://anli.io" target="_blank" rel="noreferrer">Anne Li</a>. Built with
 		{` `}
 		<a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">
 			Gatsby
