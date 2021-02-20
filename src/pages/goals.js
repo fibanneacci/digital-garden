@@ -7,9 +7,8 @@ const GoalsPage = () => {
 	return (
 		<Layout>
 			<SEO title="goals" />
-			<h3>goals, abstract and concrete</h3>
+			<h3>goals for 2021</h3>
             <p>
-				<b>2021</b><br />
 				<b>reach out to more people, & share work more often</b>: i sometimes miss opportunities
 				to talk to interesting people, so i'd like to do that more. also, i want to find a good
 				way to share work & get feedback (social media often feels too impersonal and insufficient

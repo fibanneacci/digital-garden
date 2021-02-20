@@ -6,7 +6,7 @@ const ThenAndNowPage = () => {
 	return (
 		<Layout>
 			<SEO title="then and now" />
-			<h3>documenting how my thoughts change</h3>
+			<h3>how my thoughts have changed over time</h3>
             <p>
                 just started so there's nothing here yet, check back later!
             </p>

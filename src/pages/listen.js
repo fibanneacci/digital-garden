@@ -5,8 +5,8 @@ import SEO from '../components/seo';
 const ListeningPage = () => {
 	return (
 		<Layout>
-			<SEO title="listening / recently listened" />
-			<h3>listening / recently listened</h3>
+			<SEO title="listen" />
+			<h3>listen</h3>
 			<iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3Dp5SHGbRIqjGGI3cPdESA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/01ZqsXtHhRtO2Z2JrvkG1w" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/5Hvi3XSS00txHgZB6UZhFl" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -15,7 +15,7 @@ const ListeningPage = () => {
             <iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3uouaAVXpQR3X8RYkJyitQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3ayPsLrm2vQwp8SUMDJYaC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/4bW1EAnsS22bviZ0ijkhwN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-			<iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/6WrI0LAC5M1Rw2MnX2ZvEg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			<iframe style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/4i1sWZe3erL8QVRCdwMoxT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 		</Layout>
 	);
 };

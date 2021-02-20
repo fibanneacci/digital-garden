@@ -24,22 +24,21 @@ const IndexPage = () => (
 				this article
 			</a>.
 		</p>
+		<p><b>feb '21</b> &mdash; wrote this small & simple program to quotify quotes containing nested quotes so I don't have to manually replace each double quote with a single quote while taking notes on course readings:</p>
+		<iframe height="400px" width="100%" src="https://repl.it/@anli0/quote?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 		<div style={{ border: `dashed #ffbf00`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
 			<p>
 				<p>🌻</p>
-				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
-				<Link to="/goals">goals, abstract and concrete</Link><br />
-				<Link to="/then-and-now">then and now</Link><br />
-				<Link to="/discard-pile">discard pile</Link><br />
 			</p>
 		</div>
 		<div style={{ border: `dashed #ff63b3`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
 			<p>
 				<p>🌸</p>
-				<Link to="/reading">[recently] read[ing]</Link><br />
-				<Link to="/listening">[recently] listen[ing]</Link><br />
-				<Link to="/watching">[recently] watch[ing]</Link><br />
-				<Link to="/cooking">[recently] cook[ing]</Link><br />
+				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
+				<Link to="/goals">goals for 2021</Link><br />
+				<Link to="/then-and-now">then and now</Link><br />
+				<Link to="/discard-pile">discard pile</Link><br />
+				<Link to="/listen">listen</Link><br />
 				<Link to="/of-the-day">of the day</Link><br />
 			</p>
 		</div>

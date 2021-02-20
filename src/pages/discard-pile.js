@@ -6,7 +6,7 @@ const DiscardPage = () => {
     return (
         <Layout>
             <SEO title="discard pile" />
-            <h3>random thoughts & words that didn't make the final cut for my blog posts</h3>
+            <h3>random thoughts & words that didn't make the final cut for blog posts</h3>
             <p>
                 nothing here yet lol
             </p>
