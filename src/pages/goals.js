@@ -14,8 +14,9 @@ const GoalsPage = () => {
 				way to share work & get feedback (social media often feels too impersonal and insufficient
 				in general)<br /><br />
 				<b>get better at saying what i think</b>: i'm hesitant to bring up my opinions whenever they
-				could come off as abrasive. however, i've found (on the receiving end) i often prefer full
-				& efficient communication, even if it's blunt. it feels worse to leave things ~unsaid~<br /><br />
+				could come off as abrasive. however, i've found (on the receiving end) i prefer efficient
+				communication, even if it's blunt. i still want to be kind and empathetic — i don't think these
+				goals are antithetical — & try to be someone people can have a long and thoughtful conversation with.<br /><br />
 				<b>focus on doing things well in the present</b>: instead of always thinking about how i
 				could or should be doing more and trying to fill up every single moment of my day, i want to
 				get more deeply involved in my current (limited) commitments and do better within those<br /><br />
