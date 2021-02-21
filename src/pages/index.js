@@ -36,8 +36,7 @@ const IndexPage = () => (
 				<p>🌸</p>
 				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
 				<Link to="/goals">goals for 2021</Link><br />
-				<Link to="/then-and-now">then and now</Link><br />
-				<Link to="/discard-pile">discard pile</Link><br />
+				<Link to="/discard">discard pile</Link><br />
 				<Link to="/listen">listen</Link><br />
 				<Link to="/of-the-day">of the day</Link><br />
 			</p>
