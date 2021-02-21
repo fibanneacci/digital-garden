@@ -27,6 +27,9 @@ const GoalsPage = () => {
 				in an attempt to begin improving at chinese. the writing is extremely awkward and stilted, and
 				i wasn't even telling my own stories--i was retelling my dad's. hopefully after a few more tries
 				i'll reach a level where i'm comfortable with writing something more substantial<br /><br />
+				<b>play piano again!</b> i played for nearly a decade, got too busy, and quit, but i always
+				loved learning piano. i don't think i'll ever take lessons again but i'm hoping to pick it
+				back up as a hobby.
 			</p>
 		</Layout>
 	);
