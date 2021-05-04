@@ -7,8 +7,9 @@ import OldMan from '../images/old-man.jpg'
 const FragmentsPage = () => {
     return (
         <Layout>
-            <SEO title="fragments of an oral history, transcribed" />
-            <h3>fragments of an oral history, transcribed</h3>
+            <SEO title="fragments" />
+            <div style={{ height: '30px' }} />
+            <h3>fragmented stories of my dad's childhood</h3>
             <p>
                 我有时候没事干了，或者不想干正经事的时候，我就让我的爸爸给我讲他童年的故事。他在一九六几年的北京长大的。他讲的故事总是非常有意思，听起来非常好玩儿，虽然他的童年也不容易。我不想把这些故事忘掉，所以我就在这儿写下来。<br />
                 <br />
@@ -34,7 +35,7 @@ const FragmentsPage = () => {
                 <br />
                 我的中文水平不太高。你如果愿意对于我写的笔记提出任何关于语法或者词汇选择的建议，我会非常高兴的听！：）<br />
                 <br />
-                <img src={OldMan} style={{ width: `300px` }}></img>
+                <img src={OldMan} alt='stylized face of old man, drawn in chalk' style={{ width: `300px` }}></img>
             </p>
         </Layout>
     );

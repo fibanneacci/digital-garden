@@ -7,29 +7,19 @@ const GoalsPage = () => {
 	return (
 		<Layout>
 			<SEO title="goals" />
-			<h3>goals for 2021</h3>
+            <div style={{ height: '30px' }} />
+			this one's a bit unrelated, but the houseplant is aspirational anyway.
+			<h3>personal goals</h3>
             <p>
-				<b>reach out to more people, & share work more often</b>: i sometimes miss opportunities
-				to talk to interesting people, so i'd like to do that more. also, i want to find a good
-				way to share work & get feedback (social media often feels too impersonal and insufficient
-				in general)<br /><br />
-				<b>get better at saying what i think</b>: i'm hesitant to bring up my opinions whenever they
-				could come off as abrasive. however, i've found (on the receiving end) i prefer efficient
-				communication, even if it's blunt. i still want to be kind and empathetic — i don't think these
-				goals are antithetical — & try to be someone people can have a long and thoughtful conversation with.<br /><br />
-				<b>focus on doing things well in the present</b>: instead of always thinking about how i
-				could or should be doing more and trying to fill up every single moment of my day, i want to
-				get more deeply involved in my current (limited) commitments and do better within those<br /><br />
-				<b>read more</b>: yeah<br /><br />
-				<b>be less fazed by insignificant, random stuff</b>: there are usually more important things
-				to be worried about<br /><br />
-				<b>write a blog post fully in chinese</b>: i recently wrote <Link to="/fragments">this</Link>{' '}
-				in an attempt to begin improving at chinese. the writing is extremely awkward and stilted, and
-				i wasn't even telling my own stories--i was retelling my dad's. hopefully after a few more tries
-				i'll reach a level where i'm comfortable with writing something more substantial<br /><br />
-				<b>play piano again!</b> i was lucky to be able to learn piano for nearly a decade. i ended up
-				getting too busy and quitting, but i really loved it. i don't think i'll ever take lessons again,
-				but i'm hoping to pick it back up as a hobby.
+				<b>2021</b><br/>
+				<b>meet new people!</b> &#8211; hoping end of lockdown will make this easier.<br/>
+				<b>get better at saying what i think</b>, even if it could come off as abrasive.<br/>
+				<b>focus on doing things well in the present</b> instead of thinking about how i could or should be doing more.<br/>
+				<b>be unfazed</b>.<br/>
+				<b>read more</b>.<br/>
+				<b>write a blog post fully in chinese</b> &#8211; my chinese writing is awkward and stilted, even when i'm <Link to="/fragments">not telling my own stories</Link>.{' '}
+				i want to reach a level where i'm comfortable with writing something more substantial.<br/>
+				<b>play piano again!</b> i was lucky to be able to learn piano for nearly a decade. i got too busy and quit, but i loved it nonetheless.
 			</p>
 		</Layout>
 	);
