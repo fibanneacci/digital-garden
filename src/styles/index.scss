@@ -1,7 +1,16 @@
+@font-face {
+    font-family: 'Chivo';
+    src: url('./Chivo/Chivo-Regular.ttf');
+}
+
 * {
-    background-color: #353535;
-    font-family: monospace, system-ui;
+    background-color: #101010;
+    font-family: 'Chivo', system-ui;
     color: #ffffff;
+}
+
+img {
+    background-color: transparent;
 }
 
 a:hover {

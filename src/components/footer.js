@@ -13,6 +13,10 @@ const Footer = ({ siteTitle }) => (
 		{` `}
 		<a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">
 			Gatsby
+		</a>. Illustrations made with
+		{` `}
+		<a href="https://www.sketch.com" target="_blank" rel="noreferrer">
+			Sketch
 		</a>.
 	</footer>
 );

@@ -34,7 +34,7 @@ const Layout = ({ children }) => {
         }}
       >
         <div style={{ minHeight: `87.5vh` }}>
-          <Header />
+          {/* <Header /> */}
           <main>{children}</main>
         </div>
         <Footer />

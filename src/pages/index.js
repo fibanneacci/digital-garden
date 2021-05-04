@@ -6,45 +6,42 @@ import Image from '../components/image';
 import SEO from '../components/seo';
 import '../styles/index.scss';
 
+import Room from '../images/room.png'
+import Book from '../images/book.png'
+import Chair from '../images/chair.png'
+import Clock from '../images/clock.png'
+import ClosedDoor from '../images/closed_door.png'
+import Desk from '../images/desk.png'
+import Houseplant from '../images/houseplant.png'
+import Laptop from '../images/laptop.png'
+import Moonlight from '../images/moonlight.png'
+import OpenDoor from '../images/open_door.png'
+import Photos from '../images/photos.png'
+import Piano from '../images/piano.png'
+import Scroll from '../images/scroll.png'
+
 const IndexPage = () => (
 	<Layout>
 		<SEO title="home" />
-		<p>
-			welcome to my little corner of the internet! my small &/ half-baked projects, ideas, and ramblings live here. (if by any chance
-			they ever get large &/ fully-baked, they might end up{' '}
-			<a href="https://anli.io/portfolio" target="_blank" rel="noreferrer">
-				here
-			</a>.)<br /><br />
-			inspired by{' '}
-			<a
-				href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/"
-				target="_blank"
-				rel="noreferrer"
-			>
-				this article
-			</a>.
-		</p>
-		<p><b>feb '21</b> &mdash; wrote this small & simple program to quotify quotes containing nested quotes so I don't have to manually replace each double quote with a single quote while taking notes on course readings:</p>
-		<iframe height="400px" width="100%" src="https://repl.it/@anli0/quote?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-		<div style={{ border: `dashed #ffbf00`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
-			<p>
-				<p>🌻</p>
-			</p>
+		<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+			<div style={{ margin: 'auto', width: '5px' }} />
+			<div style={{ margin: 'auto' }}>
+				<img src={Room} alt='lilac room with brown floor' style={{ position: 'absolute', top: '0', left: '0', width: '900px', height: 'auto' }} />
+				<img src={Desk} alt='four-legged desk' style={{ position: 'absolute', top: '300px', left: '360px', width: '180px', height: 'auto' }} />
+				<img src={Chair} alt='desk chair with wheels' style={{ position: 'absolute', top: '320px', left: '405px', width: '100px', height: 'auto' }} />
+				<img src={Book} alt='open book with red cover' style={{ position: 'absolute', top: '297px', left: '450px', width: '55px', height: 'auto' }} />
+				<img src={Laptop} alt='laptop' style={{ position: 'absolute', top: '280px', left: '390px', width: '60px', height: 'auto' }} />
+				<img src={Clock} alt='analog clock' style={{ position: 'absolute', top: '200px', left: '530px', width: '35px', height: 'auto' }} />
+				<img src={Houseplant} alt='tall leafy houseplant' style={{ position: 'absolute', top: '210px', left: '530px', width: '120px', height: 'auto' }} />
+				<img src={Photos} alt='three photos on wall' style={{ position: 'absolute', top: '200px', left: '230px', width: '50px', height: 'auto' }} />
+				<img src={Scroll} alt='scroll with flowers and Chinese' style={{ position: 'absolute', top: '250px', left: '650px', width: '40px', height: 'auto' }} />
+				<img src={ClosedDoor} alt='brown door, closed' style={{ width: 'auto', height: 'auto' }} />
+				{/* <img src={OpenDoor} alt='brown door, open' style={{ width: 'auto', height: 'auto' }} /> */}
+				<img src={Moonlight} alt='rays of moonlight' style={{ position: 'absolute', top: '175px', left: '245px', width: '250px', height: 'auto' }} />
+				<img src={Piano} alt='piano keyboard and bench' style={{ position: 'absolute', top: '350px', left: '130px', width: '175px', height: 'auto' }} />
+			</div>
+			<div style={{ margin: 'auto', width: '5px' }} />
 		</div>
-		<div style={{ border: `dashed #ff63b3`, padding: `0 17px 0 17px`, marginTop: `20px` }}>
-			<p>
-				<p>🌸</p>
-				<Link to="/fragments">fragments of an oral history, transcribed</Link><br />
-				<Link to="/goals">goals for 2021</Link><br />
-				<Link to="/discard">discard pile</Link><br />
-				<Link to="/listen">listen</Link><br />
-				<Link to="/of-the-day">of the day</Link><br />
-			</p>
-		</div>
-		<p>
-			did anything capture your interest? email me at hi at anli dot io if you want to chat about it! i love talking to
-			people about random things.
-    </p>
 	</Layout>
 );
 
