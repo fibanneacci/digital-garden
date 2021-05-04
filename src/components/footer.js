@@ -5,7 +5,8 @@ import React from 'react';
 const Footer = ({ siteTitle }) => (
 	<footer
 		style={{
-			marginTop: `2rem`
+			marginTop: `2rem`,
+			marginLeft: `6rem`,
 		}}
 	>
         <b>Last cultivated on 210117.</b>{` `}
