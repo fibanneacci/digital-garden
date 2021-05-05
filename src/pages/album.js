@@ -7,7 +7,7 @@ const AlbumPage = () => {
 		<Layout>
 			<SEO title="album" />
             <div style={{ height: '30px' }} />
-            ⚠️ this is not instagram ⚠️
+            <h3>⚠️ this is not instagram ⚠️</h3>
 		</Layout>
 	);
 };
