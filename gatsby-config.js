@@ -2,7 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `anne's digital garden`,
     description: `home to my small &/ half-baked projects`,
-    author: `@gatsbyjs`,
+    author: `@_anli`,
+    keywords: `anne li, digital garden`,
+    siteUrl: `https://garden.anli.io`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -28,6 +30,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
+    `gatsby-plugin-social-cards`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
