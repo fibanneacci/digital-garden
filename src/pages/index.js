@@ -38,7 +38,8 @@ const IndexPage = () => (
 		<SEO title="home" />
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta name="twitter:title" content="home | anne's digital garden" />
-		<meta name="twitter:image" content={image} />
+		<meta name="twitter:image" content="https://garden.anli.io/static/home-d997ebe7b4da8edc342c62e5b01e6298.png" />
+		{/* <meta name="twitter:image" content={image} /> */}
 		<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
 			<div style={{ position: 'relative' }}>
 				<img src={Room} alt='lilac room with brown floor' style={{ position: 'absolute', top: '0', left: '0', width: '900px', height: 'auto' }} />
