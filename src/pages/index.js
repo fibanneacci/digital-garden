@@ -2,9 +2,10 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 import Layout from '../components/layout';
-import Image from '../components/image';
+// import Image from '../components/image';
 import SEO from '../components/seo';
 import '../styles/index.scss';
+import image from './home.png'
 
 import Room from '../images/room.png'
 import Moon from '../images/moon.png'
@@ -35,6 +36,9 @@ function close_door() {
 const IndexPage = () => (
 	<Layout>
 		<SEO title="home" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="home | anne's digital garden" />
+		<meta name="twitter:image" content={image} />
 		<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
 			<div style={{ position: 'relative' }}>
 				<img src={Room} alt='lilac room with brown floor' style={{ position: 'absolute', top: '0', left: '0', width: '900px', height: 'auto' }} />
