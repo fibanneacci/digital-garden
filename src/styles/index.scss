@@ -30,10 +30,12 @@ a:hover {
 }
 
 #toggle-button {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     border-width: 3px;
     border-style: solid;
-    border-color: var(--font-color);
-    border-radius: 7px;
+    border-color: var(--color-primary);
+    border-radius: 9px;
     cursor: pointer;
+    color: var(--color-primary);
+    background-color: var(--font-color);
 }
