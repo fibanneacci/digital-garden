@@ -98,9 +98,9 @@ class IndexPage extends React.Component {
 						<Link to='/random' style={{ textDecoration: 'none' }}>
 							<img src={Laptop} alt='laptop' style={{ position: 'absolute', top: '280px', left: '390px', width: '60px', height: 'auto' }} />
 						</Link>
-						<Link to='/time' style={{ textDecoration: 'none' }}>
+						<a href='https://journal.anli.io' target='blank' rel='noreferrer' style={{ textDecoration: 'none '}}>
 							<img src={Clock} alt='analog clock' style={{ position: 'absolute', top: '200px', left: '340px', width: '35px', height: 'auto' }} />
-						</Link>
+						</a>
 						<Link to='/goals' style={{ textDecoration: 'none' }}>
 							<img src={Houseplant} alt='tall leafy houseplant' style={{ position: 'absolute', top: '210px', left: '530px', width: '120px', height: 'auto' }} />
 						</Link>
