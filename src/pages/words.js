@@ -27,6 +27,16 @@ const WordsPage = () => {
                 desire expressed in a utility function, every problem resolvable using the more or less
                 crude calculation devices in our pockets."
 				<br /><br />
+                <b><a href='https://www.taylorfrancis.com/chapters/edit/10.4324/9781315746890-5/maze-labyrinth-tim-ingold' target='_blank' rel='noreferrer'>
+					"The Maze and the Labyrinth: Walking, Imagining and the Education of Attention"
+					</a> &mdash; Tim Ingold, <i>Psychology and the Conduct of Everyday Life</i>
+				</b><br />
+                "...the intentional traveler, wrapped up in the space of [their] own deliberations, is, by the same token, absent
+                from the world itself...to [traverse a labyrinth], [one’s] action must be closely and continually coupled with
+                [one’s] perception—that is, by an ever-vigilant monitoring of the path as it unfolds. Simply put, you have to
+                watch your step, and to listen and feel as well. Path-following, in short, is not so much intentional as <i>attentional</i>.{` `}
+                It draws the follower out into the presence of the real."
+                <br /><br />
 				<b><a href='https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb' target='_blank' rel='noreferrer'>
 					"how to do nothing"
 					</a> &mdash; Jenny Odell
