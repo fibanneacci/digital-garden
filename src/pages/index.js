@@ -68,7 +68,7 @@ const IndexPage = () => (
 		<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
 			<div style={{ position: 'relative' }}>
 				<img id='room' src={document.documentElement.className == 'theme-light' ? RoomLight : RoomDark} alt='lilac room with brown floor' style={{ position: 'absolute', top: '0', left: '0', width: '900px', height: 'auto' }} />
-				<Link to='/moon' style={{ textDecoration: 'none' }}>
+				<Link to='/astro' style={{ textDecoration: 'none' }}>
 					<img id='astro' src={document.documentElement.className == 'theme-light' ? Sun : Moon} alt='crescent moon' style={{ position: 'absolute', top: '40px', left: '585px', width: '70px', height: 'auto' }} />
 				</Link>
 				<img src={Desk} alt='four-legged desk' style={{ position: 'absolute', top: '300px', left: '360px', width: '180px', height: 'auto' }} />
