@@ -15,8 +15,8 @@ const ListeningPage = () => {
             <iframe title='hard place' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/56Rmib5mhCfiaSJqhLgEdW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe title='cyanide' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3uouaAVXpQR3X8RYkJyitQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe title='戀曲1980' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/6hFQzyg9zkhueFWAaMXZnE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-			<iframe title='open up' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/4bW1EAnsS22bviZ0ijkhwN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe title='comeback.' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/4i1sWZe3erL8QVRCdwMoxT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			<iframe title='sayonara' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3D0qt4fQGE3Pq52MxFjXak" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 		</Layout>
 	);
 };
