@@ -3,10 +3,22 @@
     src: url('./Chivo/Chivo-Regular.ttf');
 }
 
+.theme-light {
+    --color-primary: #fff;
+    --font-color: #1e1e1e;
+    --accent-color: #ff9d00;
+}
+
+.theme-dark {
+    --color-primary: #1e1e1e;
+    --font-color: #fff;
+    --accent-color: #3dff77;
+}
+
 * {
-    background-color: #101010;
     font-family: 'Chivo', system-ui;
-    color: #ffffff;
+    background-color: var(--color-primary);
+    color: var(--font-color);
 }
 
 img {
@@ -14,5 +26,14 @@ img {
 }
 
 a:hover {
-    color: #3dff77;
+    color: var(--accent-color);
+}
+
+#toggle-button {
+    font-size: 0.8rem;
+    border-width: 3px;
+    border-style: solid;
+    border-color: var(--font-color);
+    border-radius: 7px;
+    cursor: pointer;
 }

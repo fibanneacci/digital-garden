@@ -35,8 +35,10 @@ const FragmentsPage = () => {
                 <br />
                 我的中文水平不太高。你如果愿意对于我写的笔记提出任何关于语法或者词汇选择的建议，我会非常高兴的听！：）<br />
                 <br />
-                <img src={OldMan} alt='stylized face of old man, drawn in chalk' style={{ width: `300px` }}></img>
             </p>
+            <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                <img src={OldMan} alt='stylized face of old man, drawn in chalk' style={{ width: 'auto', margin: 'auto' }} />
+            </div>
         </Layout>
     );
 };
