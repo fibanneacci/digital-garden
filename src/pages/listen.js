@@ -7,12 +7,13 @@ const ListeningPage = () => {
 		<Layout>
 			<SEO title="listen" />
             <div style={{ height: '30px' }} />
-			<h3>music! but not piano music</h3>
+			<h3>listen</h3>
 			<iframe title='bourbon' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3Dp5SHGbRIqjGGI3cPdESA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe title='lights on' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/01ZqsXtHhRtO2Z2JrvkG1w" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe title='ugly beauty' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/0cONHWTIfgEpAuVwbbwGgc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe title='dream of you' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/5SEvxpu5ImOFOcXyeM8fbx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-            <iframe title='sugar baby' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/2LcqFRq2xBQdSfXBh5IIUk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            <iframe title='hard place' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/56Rmib5mhCfiaSJqhLgEdW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+			<iframe title='sugar baby' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/2LcqFRq2xBQdSfXBh5IIUk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
             <iframe title='cyanide' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/3uouaAVXpQR3X8RYkJyitQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe title='戀曲1980' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/6hFQzyg9zkhueFWAaMXZnE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 			<iframe title='open up' style={{ margin: `10px` }} src="https://open.spotify.com/embed/track/4bW1EAnsS22bviZ0ijkhwN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
