@@ -23,7 +23,7 @@ const AlbumPage = () => {
 			<img src={Sparrows} alt='sparrows flying up-and-down in a blob' style={{ padding: '10px' }}></img>
 			<p style={{ marginLeft: '10px' }}>
 				<b>summer 2020, little rock</b><br />
-				watercolor sky / speeding lights / sky-facing flower / egg-yolk sun / pink clouds / grazing
+				watercolor sky / speeding lights / sky-facing flower / egg-yolk sun (thanks taylor) / pink clouds / grazing
 			</p>
 			<img src={WatercolorSky} alt='blue and purple dark sky with mountain silouhette' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 			<img src={SpeedingLights} alt='car lights stretched out over bridge' style={{ width: '400px', height: 'auto', padding: '10px' }} />
