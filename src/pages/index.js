@@ -14,7 +14,8 @@ import Book from '../images/book.png'
 import Chair from '../images/chair.png'
 import Clock from '../images/clock.png'
 import ClosedDoor from '../images/closed_door.png'
-import DoorHole from '../images/door_hole.png'
+import DoorHoleDark from '../images/door_hole_dark.png'
+import DoorHoleLight from '../images/door_hole_light.png'
 import Desk from '../images/desk.png'
 import Houseplant from '../images/houseplant.png'
 import Laptop from '../images/laptop.png'
@@ -110,7 +111,7 @@ class IndexPage extends React.Component {
 							<img src={Scroll} alt='scroll with flowers and Chinese' style={{ position: 'absolute', top: '250px', left: '650px', width: '40px', height: 'auto' }} />
 						</Link>
 						<Link to='/outside' onFocus={open_door} onMouseOver={open_door} onMouseMove={open_door} onMouseOut={close_door} onBlur={close_door} style={{ textDecoration: 'none' }}>
-							<img src={DoorHole} alt='door hole' style={{ position: 'absolute', top: '333px', left: '691px', width: '55px', height: 'auto' }} />
+							<img src={this.state.mode == 'theme-light' ? DoorHoleLight : DoorHoleDark} alt='door hole' style={{ position: 'absolute', top: '333px', left: '691px', width: '55px', height: 'auto' }} />
 							<img id='closed_door' src={ClosedDoor} alt='brown door, closed' style={{ position: 'absolute', top: '333px', left: '691px', width: '55px', height: 'auto' }} />
 							<img id='open_door' src={OpenDoor} alt='brown door, open' style={{ visibility: 'hidden', position: 'absolute', top: '333px', left: '635px', width: '66px', height: 'auto' }} />
 						</Link>
