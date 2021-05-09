@@ -90,7 +90,7 @@ class IndexPage extends React.Component {
 						<Link to='/astro' style={{ textDecoration: 'none' }}>
 							<img id='astro' src={this.state.mode == 'theme-light' ? Sun : Moon} alt='crescent moon' style={{ position: 'absolute', top: '40px', left: '585px', width: '70px', height: 'auto' }} />
 						</Link>
-						<Link to='/listen' style={{ textDecoration: 'none' }}>
+						<Link to='/music' style={{ textDecoration: 'none' }}>
 							<img src={Piano} alt='piano keyboard and bench' style={{ position: 'absolute', top: '350px', left: '130px', width: '175px', height: 'auto' }} />
 						</Link>
 						<Link to='/album' style={{ textDecoration: 'none' }}>
