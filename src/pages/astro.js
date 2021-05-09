@@ -32,7 +32,7 @@ class MoonPage extends React.Component {
                         }
                         {this.state.mode == 'theme-dark' &&
                             <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                                <iframe title='oh, universe' src="https://open.spotify.com/embed/track/4288bHzkYGmDpvrp321rWE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                                <iframe title='oh, universe' src="https://open.spotify.com/embed/track/4288bHzkYGmDpvrp321rWE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style={{ margin: 'auto' }}></iframe>
                                 <p><i>Wishing I could atomize these lonely lunar views (<a href='https://genius.com/9423322' target='_blank' rel='noreferrer'>source</a>)</i></p>
                             </div>
                         }
