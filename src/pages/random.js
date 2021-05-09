@@ -7,7 +7,7 @@ const RandomPage = () => {
 		<Layout>
 			<SEO title="random" />
             <div style={{ height: '30px' }} />
-			<h3>🚧 under constructions 🚧</h3>
+			<h3>🚧 under construction 🚧</h3>
             unsure what to put here yet! please check back later :)
 		</Layout>
 	);
