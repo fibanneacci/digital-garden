@@ -29,6 +29,10 @@ a:hover {
     color: var(--accent-color);
 }
 
+a:focus img {
+    outline: 2px solid var(--font-color);
+}
+
 #toggle-button {
     font-size: 0.9rem;
     border-width: 3px;
