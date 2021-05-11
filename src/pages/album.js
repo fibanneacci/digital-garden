@@ -60,7 +60,7 @@ const AlbumPage = () => {
 				<b>spring 2015, boston</b><br />
 				lol
 			</p>
-			<img src={Smol} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Smol} alt='younger me at table with calculator and pencils' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 		</Layout>
 	);
 };
