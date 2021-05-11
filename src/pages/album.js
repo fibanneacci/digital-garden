@@ -49,13 +49,13 @@ const AlbumPage = () => {
 				really struggled with putting the rest of these together, since i'm not much of a picture taker & habitually delete my entire camera roll sans backup <span role='img' aria-label='peace-sign'>✌️</span><br /><br />
 				<b>spring 2019, 泰安市 (tai'an) and 青岛市 (qingdao)</b><br />
 				(not my pictures; experienced vicariously through my mom)<br />
-				huoguo (hot pot) / paper lanterns / mountaintop / waves / fog
+				huoguo (hot pot) / lanterns / mountaintop / waves / fog
 			</p>
-			<img src={HuoGuo} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
-			<img src={Lanterns} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
-			<img src={TaiShan} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
-			<img src={Waves} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
-			<img src={Fog} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={HuoGuo} alt='table with plates of raw meat, vegetables, and fruits for hot pot' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Lanterns} alt='illuminated lanterns with chinese writing on dark background' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={TaiShan} alt='walking area with mountaintops in background' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Waves} alt='waves crashing on dock with tall building in background' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Fog} alt='skyscrapers rising into fog' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 			<p style={{ marginLeft: '10px' }}>
 				<b>spring 2015, boston</b><br />
 				lol
