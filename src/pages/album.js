@@ -25,7 +25,7 @@ const AlbumPage = () => {
 			<h3 style={{ marginLeft: '10px' }}>collection of moments</h3>
 			<p style={{ marginLeft: '10px' }}>
 				briefly considered making an instagram for these, but decided against it &mdash; i recently made one for a prototyping assignment in my
-				social computing class and realized it's become almost unrecognizable since i quit it in 2018, and didn't really enjoy using it<br /><br />
+				social computing class and realized it's become even worse than when i quit it in 2018, and didn't really enjoy using it<br /><br />
 				<b>autumn 2020, little rock</b><br />
 				sinusoidal sparrow flight
 			</p>
