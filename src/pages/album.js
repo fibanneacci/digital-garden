@@ -9,6 +9,15 @@ import Flower from '../images/album/flower.png'
 import EggYolkSun from '../images/album/egg_yolk_sun.png'
 import Clouds from '../images/album/clouds.png'
 import Grazing from '../images/album/grazing_park.png'
+import Shadow from '../images/album/shadow.png'
+import WWDCCool from '../images/album/wwdccool.jpg'
+import WWDCMe from '../images/album/wwdcme.jpeg'
+import HuoGuo from '../images/album/huoguo.jpg'
+import Lanterns from '../images/album/lanterns.jpg'
+import TaiShan from '../images/album/taishan.jpg'
+import Waves from '../images/album/waves.jpg'
+import Fog from '../images/album/fog.jpg'
+import Smol from '../images/album/smol.jpg'
 
 const AlbumPage = () => {
 	return (
@@ -17,6 +26,8 @@ const AlbumPage = () => {
 			<div style={{ height: '30px' }} />
 			<h3 style={{ marginLeft: '10px' }}>collection of moments</h3>
 			<p style={{ marginLeft: '10px' }}>
+				briefly considered making an instagram for these, but decided against it &mdash; i recently made one for a prototyping assignment in my
+				social computing class and realized it's become almost unrecognizable since i quit it in 2018, and didn't really enjoy using it<br /><br />
 				<b>autumn 2020, little rock</b><br />
 				sinusoidal sparrow flight
 			</p>
@@ -31,6 +42,33 @@ const AlbumPage = () => {
 			<img src={EggYolkSun} alt='red sun setting over mountains and river' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 			<img src={Clouds} alt='puffy pink & gray clouds in blue sky' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 			<img src={Grazing} alt='two canada geese grazing on grass' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<p style={{ marginLeft: '10px' }}>
+				<b>spring 2020, little rock</b><br />
+				grasping at light &mdash; still unsure why i took this pic
+			</p>
+			<img src={Shadow} alt='open hand grasping at streak of light' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<p style={{ marginLeft: '10px' }}>
+				really struggled with putting the rest of these together, since i'm not much of a picture taker & habitually delete my entire camera roll sans backup <span role='img' aria-label='peace-sign'>✌️</span><br /><br />
+				<b>summer 2019, san jose</b><br />
+				wwdc, but with cool people / wwdc, but just me
+			</p>
+			<img src={WWDCCool} alt='six people standing in a row in the grass in the sun' style={{ width: '600px', height: 'auto', padding: '10px' }} />
+			<img src={WWDCMe} alt='portrait with background blurred, b&w' style={{ width: '300px', height: 'auto', padding: '10px' }} />
+			<p style={{ marginLeft: '10px' }}>
+				<b>spring 2019, 泰安市 (tai'an) and 青岛市 (qingdao)</b><br />
+				(not my pictures; lived vicariously through my mom)<br />
+				huoguo (hot pot) / paper lanterns / mountaintop / waves / fog
+			</p>
+			<img src={HuoGuo} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Lanterns} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={TaiShan} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Waves} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<img src={Fog} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
+			<p style={{ marginLeft: '10px' }}>
+				<b>spring 2015, boston</b><br />
+				lol
+			</p>
+			<img src={Smol} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 		</Layout>
 	);
 };

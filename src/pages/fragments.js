@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
-import OldMan from '../images/old-man.jpg'
+import OldMan from '../images/old-man.jpeg'
 
 const FragmentsPage = () => {
     return (

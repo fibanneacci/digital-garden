@@ -3,42 +3,44 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 
 const WordsPage = () => {
-	return (
-		<Layout>
-			<SEO title="words" />
-			<div style={{ height: '30px' }} />
-			<h3>collection of words (not mine)</h3>
-			<p style={{ lineHeight: '1.5' }}>
-				<b><a href='https://communemag.com/optimize-what/' target='_blank' rel='noreferrer'>
-					"Optimize What?"
-					</a> &mdash; Jimmy Wu, <i>Commune Mag</i>
-				</b><br />
-				"Yet in positioning itself as tech’s moral compass, academic computer science belies
-                the fact that its own intellectual tools are the source of the technology industry’s
-                dangerous power. A significant part of the problem is the kind of ideology it instills
-                in students, researchers, and society at large. It’s not just that engineering education
-                teaches students to think that all problems deserve technical solutions...the curriculum
-                is built around an entire value system that knows only utility functions, symbolic manipulations,
-                and objective maximization."
-				<br /><br />
-				"Boyd teaches this course once a year, and typically in the first lecture, he declares:
-                'Everything is an optimization problem.' The claim reeks of techno-utilitarian naïveté,
-                with its suggestion that every object can be modeled as a bunch of numbers, every human
-                desire expressed in a utility function, every problem resolvable using the more or less
-                crude calculation devices in our pockets."
-				<br /><br />
+    return (
+        <Layout>
+            <SEO title="words" />
+            <div style={{ height: '30px' }} />
+            <h3>collection of words (not mine)</h3>
+            <p style={{ lineHeight: '1.5' }}>
+                <b><a href='https://www.theatlantic.com/health/archive/2020/10/trump-strength-coronavirus/616682/' target='_blank' rel='noreferrer'>
+                    "What Strength Really Means When You’re Sick"
+					</a> &mdash; Ed Yong, <i>The Atlantic</i>
+                </b><br />
+                "Equating disease with warfare, and recovery with strength, means that death and disability are linked to failure and weakness...Like
+                so much else about the pandemic, the strength-centered rhetoric confuses more than it clarifies, and reveals more about
+                America’s values than the disease currently plaguing it."
+                <br /><br />
+                "'[President Theodore Roosevelt's] effort to overcome the weakness of his youth instantiated itself through colonialism,' says Zoë Wool, a medical anthropologist
+                at the University of Toronto. 'He demonstrated strength through the claiming of nature in the name of the nation.'"
+                <br /><br />
+                "In recent years, the ideologies of eugenics, where 'if you’re sick, it’s your own fault and you don’t deserve support, [have] become
+                more and more blatant,' says Pamela Block, an anthropologist at Western University. As the pandemic progressed, many saw the deaths of
+                elderly people, or those with preexisting conditions, as acceptable and dismissible. And as COVID-19 disproportionately hit Black,
+                Latino, Indigenous, and Pacific Islander communities, 'people who believed in the idea of white supremacy felt like the virus was
+                doing their work for them, and could promote the idea that they’re genetically stronger...'"
+                <br /><br />
+                "Trump is hardly the first American to mischaracterize his own privilege as fortitude, but from his lips, that error is uniquely and
+                doubly pernicious. It distracts not only from the massive advantages that he enjoys, but also from his singular role in America’s pandemic year."
+                <br /><br />
                 <b><a href='https://www.taylorfrancis.com/chapters/edit/10.4324/9781315746890-5/maze-labyrinth-tim-ingold' target='_blank' rel='noreferrer'>
-					"The Maze and the Labyrinth: Walking, Imagining and the Education of Attention"
+                    "The Maze and the Labyrinth: Walking, Imagining and the Education of Attention"
 					</a> &mdash; Tim Ingold, <i>Psychology and the Conduct of Everyday Life</i>
-				</b><br />
+                </b><br />
                 "...the intentional traveler, wrapped up in the space of [their] own deliberations, is, by the same token, absent
                 from the world itself...to [traverse a labyrinth], [one’s] action must be closely and continually coupled with
                 [one’s] perception—that is, by an ever-vigilant monitoring of the path as it unfolds. Simply put, you have to
                 watch your step, and to listen and feel as well. Path-following, in short, is not so much intentional as <i>attentional</i>.{` `}
                 It draws the follower out into the presence of the real."
                 <br /><br />
-				<b><a href='https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb' target='_blank' rel='noreferrer'>
-					"how to do nothing"
+                <b><a href='https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb' target='_blank' rel='noreferrer'>
+                    "how to do nothing"
 					</a> &mdash; Jenny Odell
 				</b><br />
 				"'...what a relief to have nothing to say, the right to say nothing, because only then is there a chance of
@@ -62,10 +64,10 @@ const WordsPage = () => {
                 ambiguous — and this meeting, this sensing, requires and takes place in time. Not only that, due to the effort
                 of sensing, the two entities might come away from the encounter a bit differently than they went in."
 				<br /><br />
-				<b><a href='https://www.theatlantic.com/education/archive/2019/10/little-rock-still-fighting-school-integration/600436/' target='_blank' rel='noreferrer'>
-					"An Attempt to Resegregate Little Rock, of All Places"
+                <b><a href='https://www.theatlantic.com/education/archive/2019/10/little-rock-still-fighting-school-integration/600436/' target='_blank' rel='noreferrer'>
+                    "An Attempt to Resegregate Little Rock, of All Places"
 					</a> &mdash; Adam Harris, <i>The Atlantic</i>
-				</b><br />
+                </b><br />
 				"It was a shockingly brazen proposal in the town that holds a rarified place in the collective
                 national memory over the fight for school integration. Less than a lifetime ago, the desegregation
                 of Little Rock’s Central High School became a nationwide story...And now, in 2019, the state had
@@ -75,10 +77,10 @@ const WordsPage = () => {
                 "The tensions over the desegregation of public schools in Little Rock did not leave when the news
                 cameras did."
 				<br /><br />
-				<b><a href='https://www.theatlantic.com/entertainment/archive/2018/12/lauryn-hill-tara-westover-cameron-post-the-year-in-miseducation/579160/' target='_blank' rel='noreferrer'>
-					"A Year of Miseducation"
+                <b><a href='https://www.theatlantic.com/entertainment/archive/2018/12/lauryn-hill-tara-westover-cameron-post-the-year-in-miseducation/579160/' target='_blank' rel='noreferrer'>
+                    "A Year of Miseducation"
 					</a> &mdash; Matt Thompson, <i>The Atlantic</i>
-				</b><br />
+                </b><br />
 				"Every person has two choices for how to cope with any aspect of society that is uncomfortable: act
                 to change it, or surrender. Miseducation is the art of teaching people to surrender."
                 <br /><br />
@@ -121,8 +123,8 @@ const WordsPage = () => {
                 you. And you shouldn’t claim a piece of it, you should claim all of it. And when you begin to claim all
                 of it, you fight for the whole of humanity.'"
 			</p>
-		</Layout>
-	);
+        </Layout>
+    );
 };
 
 export default WordsPage;
