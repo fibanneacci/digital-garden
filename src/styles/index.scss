@@ -3,6 +3,12 @@
     src: url('./Chivo/Chivo-Regular.ttf');
 }
 
+@font-face {
+    font-family: 'Chivo';
+    src: url('./Chivo/Chivo-Bold.ttf');
+    font-weight: bold;
+}
+
 .theme-light {
     --color-primary: #fff;
     --font-color: #1e1e1e;
