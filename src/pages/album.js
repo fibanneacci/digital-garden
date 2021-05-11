@@ -10,12 +10,12 @@ import EggYolkSun from '../images/album/egg_yolk_sun.png'
 import Clouds from '../images/album/clouds.png'
 import Grazing from '../images/album/grazing_park.png'
 import Shadow from '../images/album/shadow.png'
-import HuoGuo from '../images/album/huoguo.JPG'
-import Lanterns from '../images/album/lanterns.JPG'
-import TaiShan from '../images/album/taishan.JPG'
-import Waves from '../images/album/waves.JPG'
-import Fog from '../images/album/fog.JPG'
-import Smol from '../images/album/smol.JPG'
+import HuoGuo from '../images/album/huoguo.png'
+import Lanterns from '../images/album/lanterns.png'
+import TaiShan from '../images/album/taishan.png'
+import Waves from '../images/album/waves.png'
+import Fog from '../images/album/fog.png'
+import Smol from '../images/album/smol.png'
 
 const AlbumPage = () => {
 	return (
