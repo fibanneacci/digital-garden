@@ -10,8 +10,6 @@ import EggYolkSun from '../images/album/egg_yolk_sun.png'
 import Clouds from '../images/album/clouds.png'
 import Grazing from '../images/album/grazing_park.png'
 import Shadow from '../images/album/shadow.png'
-import WWDCCool from '../images/album/wwdccool.jpg'
-import WWDCMe from '../images/album/wwdcme.jpeg'
 import HuoGuo from '../images/album/huoguo.jpg'
 import Lanterns from '../images/album/lanterns.jpg'
 import TaiShan from '../images/album/taishan.jpg'
@@ -49,14 +47,8 @@ const AlbumPage = () => {
 			<img src={Shadow} alt='open hand grasping at streak of light' style={{ width: '400px', height: 'auto', padding: '10px' }} />
 			<p style={{ marginLeft: '10px' }}>
 				really struggled with putting the rest of these together, since i'm not much of a picture taker & habitually delete my entire camera roll sans backup <span role='img' aria-label='peace-sign'>✌️</span><br /><br />
-				<b>summer 2019, san jose</b><br />
-				wwdc, but with cool people / wwdc, but just me
-			</p>
-			<img src={WWDCCool} alt='six people standing in a row in the grass in the sun' style={{ width: '600px', height: 'auto', padding: '10px' }} />
-			<img src={WWDCMe} alt='portrait with background blurred, b&w' style={{ width: '300px', height: 'auto', padding: '10px' }} />
-			<p style={{ marginLeft: '10px' }}>
 				<b>spring 2019, 泰安市 (tai'an) and 青岛市 (qingdao)</b><br />
-				(not my pictures; lived vicariously through my mom)<br />
+				(not my pictures; experienced vicariously through my mom)<br />
 				huoguo (hot pot) / paper lanterns / mountaintop / waves / fog
 			</p>
 			<img src={HuoGuo} alt='TODO' style={{ width: '400px', height: 'auto', padding: '10px' }} />
