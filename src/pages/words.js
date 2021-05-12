@@ -9,7 +9,7 @@ const WordsPage = () => {
             <div style={{ height: '30px' }} />
             <h3>collection of words (not mine)</h3>
             <p style={{ lineHeight: '1.5' }}>
-                This page is just for articles; books at <a href='https://ff0000.anli.io' target='_blank' rel='noreferrer'>ff0000 dot anli dot io</a><br /><br />
+                This page has stuff from articles only; books at <a href='https://ff0000.anli.io' target='_blank' rel='noreferrer'>ff0000 dot anli dot io</a><br /><br />
                 <b><a href='https://www.theatlantic.com/health/archive/2020/10/trump-strength-coronavirus/616682/' target='_blank' rel='noreferrer'>
                     "What Strength Really Means When You’re Sick"
 					</a> &mdash; Ed Yong, <i>The Atlantic</i>
