@@ -7,8 +7,9 @@ const RandomPage = () => {
 		<Layout>
 			<SEO title="random" />
             <div style={{ height: '30px' }} />
-			<h3>🚧 under construction 🚧</h3>
-            unsure what to put here yet! please check back later :)
+			<h3>random</h3>
+            <iframe height="400px" width="100%" src="https://repl.it/@anli0/quote?lite=true&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+			
 		</Layout>
 	);
 };
